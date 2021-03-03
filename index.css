@@ -20,6 +20,10 @@ nav{
 
 }
 
+#tech:hover{
+    cursor: pointer;
+}
+
 .header{
     height: 100%;
     display: flex;
